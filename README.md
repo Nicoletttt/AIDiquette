@@ -1,1 +1,1 @@
-# Aidiquette
+# AIDiquette
